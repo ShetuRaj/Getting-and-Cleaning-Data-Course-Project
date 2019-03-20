@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
-This Repository was made as a part of the Peer-graded assignment in Week 4.
+This Repository was made as a part of the **Peer-graded assignment** in **Week 4**.
 
 In case you haven't downloaded the data set,below are the steps to guide you to do so:-
 * Firstly, download and unzip the data file into your R working directory.
