@@ -6,7 +6,7 @@ In case you haven't downloaded the data set,below are the steps to guide you to 
 * Secondly, download the R source code into your R working directory.
 * Finally, execute R source code to generate tidy data file.
 
-The **R script** and **run_analysis.R** does the following:
+The **R script**,**run_analysis.R**, does the following:
 * Loads both the training and test datasets, keeping only those columns which reflect a mean or standard deviation
 * Loads the activity and subject data for each dataset, and merges those columns with the dataset
 * Merges the two datasets
